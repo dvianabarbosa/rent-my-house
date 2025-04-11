@@ -6,6 +6,6 @@
 **Live Demo:** [https://www.villaaleksandra.com](https://www.villaaleksandra.com)
 
 **Description:**  
-A personal multilingual esponsive small web built with Spring Boot + Reacts to avoid Airbnb charges.
+A personal multilingual responsive small web built with Spring Boot + React to avoid Airbnb charges.
 Using Stripe for charges.
 
